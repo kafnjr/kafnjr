@@ -6,7 +6,9 @@ Sejam bem-vindos ao meu github, onde eu compartilho o que estou estudando e o me
 
 Ainda estou trabalhando neste perfil, então sejam pacientes (rsrsrs) e aguardem que em breve trarei novidades e links de projetos recém concluídos e outros que serão retomados. O primeiro passo, que é a criação deste perfil, já foi dado.
 
-Redes sociais: [![Linkedin Carlos Junior](./linkedin36.png)](https://www.linkedin.com/in/kafnjr/)
+Redes sociais:
+
+[![Linkedin Carlos Junior](./linkedin36.png)](https://www.linkedin.com/in/kafnjr/)
 
 ![Carlos Junior's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kafnjr&show_icons=true&theme=vue-dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kafnjr&langs_count=8&theme=vue-dark)

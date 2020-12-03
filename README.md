@@ -16,10 +16,6 @@ Redes sociais:
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafnjr&langs_count=8&theme=vue-dark" alt="Most Used Languages">
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kafnjr&theme=vue-dark" alt="Carlos Junior's wakatime stats">
-</p>
-
 Cards feito por: [Anurag Hazra](https://github.com/anuraghazra)
 
 <!--

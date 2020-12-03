@@ -11,13 +11,13 @@ Redes sociais:
 [![Linkedin Carlos Junior](./linkedin36.png)](https://www.linkedin.com/in/kafnjr/)
 
 <p align="top">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kafnjr&repo=github-readme-stats" alt="Carlos Junior's GitHub Stats" />
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=kafnjr&show_icons=true&theme=vue-dark" alt="Carlos Junior's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafnjr&langs_count=8&theme=vue-dark" alt="Most Used Languages">
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafnjr&langs_count=8&theme=vue-dark" alt="Most Used Languages">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kafnjr&theme=vue-dark" alt="Carlos Junior's wakatime stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kafnjr&theme=vue-dark" alt="Carlos Junior's wakatime stats">
 </p>
 
 Cards feito por: [Anurag Hazra](https://github.com/anuraghazra)

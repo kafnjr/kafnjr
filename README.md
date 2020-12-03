@@ -11,7 +11,7 @@ Redes sociais:
 [![Linkedin Carlos Junior](./linkedin36.png)](https://www.linkedin.com/in/kafnjr/)
 
 <p align="top">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Carlos Junior's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kafnjr&repo=github-readme-stats" alt="Carlos Junior's GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafnjr&langs_count=8&theme=vue-dark" alt="Most Used Languages">
 </p>

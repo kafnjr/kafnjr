@@ -10,23 +10,27 @@ Redes sociais:
 
 [![Linkedin Carlos Junior](./linkedin36.png)](https://www.linkedin.com/in/kafnjr/)
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Carlos Junior's GitHub Stats" />
+<p align="top">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Carlos Junior's GitHub Stats" />
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafnjr&langs_count=8&theme=vue-dark" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafnjr&langs_count=8&theme=vue-dark" alt="Most Used Languages">
+</p>
 
-[Carlos Junior's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kafnjr&theme=vue-dark)
-
-Cards feito por: [Anurag Hazra](https://github.com/anuraghazra)
-
-<!-->
-
-![Carlos Junior's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kafnjr&show_icons=true&theme=vue-dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kafnjr&langs_count=8&theme=vue-dark)
-[Carlos Junior's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kafnjr&theme=vue-dark)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kafnjr&theme=vue-dark" alt="Carlos Junior's wakatime stats">
+</p>
 
 Cards feito por: [Anurag Hazra](https://github.com/anuraghazra)
 
 <!--
+
+![Carlos Junior's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kafnjr&show_icons=true&theme=vue-dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kafnjr&langs_count=8&theme=vue-dark)
+[Carlos Junior's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kafnjr&theme=vue-dark)
+[Carlos Junior's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kafnjr&theme=vue-dark)
+
+Cards feito por: [Anurag Hazra](https://github.com/anuraghazra)
+
 ### Hi there 👋
 **kafnjr/kafnjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
